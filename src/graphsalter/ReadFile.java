@@ -7,7 +7,7 @@ import java.io.IOException;
 /**
  * This class reads the given .csv file passed in from the main method. It then 
  * reads the contents of the .csv file and adds it into an array. Finally it 
- * returns the array so it can be salted.
+ * returns the array so it can be salted. 
  * 
  * @author Patrick Trahan
  * @param <E>

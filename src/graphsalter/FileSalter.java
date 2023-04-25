@@ -6,7 +6,7 @@ import java.io.IOException;
 
 /**
  * Creates a csv file and pass in the values of the function into the 
- * file.
+ * file. 
  * 
  * @author Patrick Trahan
  */
